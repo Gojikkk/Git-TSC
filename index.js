@@ -2,3 +2,4 @@ console.log("Hello, World!");
 console.log("This is the index.js file.");
 console.log("Welcome to the JavaScript project.");
 consoloe.log("Perubahan tiga");
+console.log("Perubahan empat");
